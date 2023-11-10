@@ -1,0 +1,8 @@
+TP-CAR------------------->WAR-MACHINE-WITH-GUNS
+TPT-CAR------------------->WAR-MACHINE-WITH-MISSILES
+TPS-CAR------------------->WAR-MACHINE-WITH-BOMS
+TPR-CAR------------------->WAR-MACHINE-WITH-TELEP
+AD-C09---------------------->WAR-MACHINE-WITH-BOMS
+AC-C09---------------------->WAR-MACHINE-WITH-BOMS
+TALIL------------------------>WAR-GUN9
+MG17------------------------->1999
